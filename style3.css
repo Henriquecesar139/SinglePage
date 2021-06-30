@@ -1,0 +1,58 @@
+body {
+    color: white;
+}
+
+.container {
+    border: black 6px solid;
+    border-radius: 6px;
+    background-color:sienna;
+    width: 80%;
+    margin-left: 10%;  
+}
+
+hr {
+    margin-top: 10%;
+}
+
+h1 {
+    font-size: 38pt;
+    text-align: center;
+    font-family: verdana;
+}
+
+.foto-cafe {
+    border:black 4px solid;
+    margin-left: 5%;
+    width: 40%;
+    border-radius: 6px;
+    float:left;
+
+}
+
+.foto-cafe2 {
+    border: black 4px solid;
+    border-radius: 4px;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+.texto {
+    text-align: justify;
+    font-size: 20pt;
+}
+
+.creditos {
+    margin-top: 10%;
+    border-radius: 4px;
+    margin-left: 20%;
+    width: 60%;
+    background-color: white;
+    border: black 2px solid;
+}
+
+.text-cred {
+    text-align:center;
+    color: black;
+    font-size: 13pt;
+}
