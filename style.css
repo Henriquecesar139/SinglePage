@@ -1,0 +1,49 @@
+body {
+    color: white;
+}
+
+.texto {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    font-family: verdana;
+}
+
+.container {
+    border: black 2px solid;
+    border-radius: 4px;
+    background-color:sienna;
+    width: 90%;
+    margin-left: 5%;  
+}
+
+.foto-cafe {
+    border:black 4px solid;
+    margin-left: 20%;
+    width: 60%;
+    border-radius: 4px;
+
+}
+
+.foto-cafe2 {
+    border: black 2px solid;
+    border-radius: 4px;
+    width: 45%;
+    float:left;
+
+}
+
+.creditos {
+    border-radius: 4px;
+    margin-left: 20%;
+    width: 60%;
+    background-color: white;
+    border: black 2px solid;
+}
+
+.text-cred {
+    text-align:center;
+    color: black;
+}
