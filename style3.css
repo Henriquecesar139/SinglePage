@@ -23,7 +23,7 @@ h1 {
 .foto-cafe {
     border:black 4px solid;
     margin-left: 5%;
-    width: 40%;
+    width: 35%;
     border-radius: 6px;
     float:left;
 
@@ -32,9 +32,9 @@ h1 {
 .foto-cafe2 {
     border: black 4px solid;
     border-radius: 4px;
-    width: 40%;
+    width: 35%;
     float: left;
-    margin-left: 5%;
+    margin-left: 2%;
     margin-top:4%;
 }
 
